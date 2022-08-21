@@ -1,0 +1,11 @@
+{
+  "name": "class-tracker",
+  "version": "1.0.0",
+  "description": "Web app to track classes taken and/or need to be taken",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Mares",
+  "license": "MIT"
+}
